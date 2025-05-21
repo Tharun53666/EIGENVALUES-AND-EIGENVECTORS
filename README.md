@@ -5,10 +5,21 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-## Step1 : Import the numpy module to use the built-in functions for calculation
-## Step 2: Prepare the lists from each linear equations and assign in np.array()
-## Step 3: Using the np.linalg.solve(), we can find the solutions.
-## Step 4: End the program
+### Step 1:
+Import the NumPy module to use built-in functions for matrix operations.
+
+### Step 2:
+Create a list of lists to represent the matrix and convert it into a NumPy array using np.array().
+
+### Step 3:
+Use the np.transpose() function or .T attribute to find the transpose of the given matrix.
+
+### Step 4:
+Display the transposed matrix.
+
+### Step 5:
+End the program.
+
 
 
 ## Program:
